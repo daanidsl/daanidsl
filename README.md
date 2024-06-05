@@ -1,6 +1,4 @@
 ## Olá, mundo! ✨
-<p></p>
-Sou Técnica em Redes de Computadores e atualmente estou cursando graduação em Sistemas de Informação. Entusiasta na área de Cybersecurity e estou sempre em busca de novas oportunidades para aprender e crescer profissionalmente.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
