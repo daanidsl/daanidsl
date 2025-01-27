@@ -26,7 +26,7 @@ Me chamo Daniela da Silva Lopes, tenho 20 anos e sou natural de Cascais. Conclu√
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=daanidsl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -34,7 +34,7 @@ Me chamo Daniela da Silva Lopes, tenho 20 anos e sou natural de Cascais. Conclu√
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanidsl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
