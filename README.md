@@ -28,7 +28,7 @@
 ### 📊 Github Stats
 
 <div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanidsl&layout=compact&langs_count=8&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanidsl&layout=compact&langs_count=8&theme=dark"/><br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daanidsl&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 </div>
 
